@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Monda&display=swap');
+
+* {
+    font-family: 'Monda', sans-serif;
+}
+body {
+    text-align: center;
+    background-image: url(stop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-content: center;
+}
+
+
+#timer > h1{
+    display:  inline-block;
+    color: black;
+    font-size: 50px;
+        margin: 30px;
+}
+
+#Records > h1{
+     display:  inline-block;
+     color: black;
+     font-size: 50px;
+         margin: 30px;
+}
+
+
+
+#startBtn {
+    /* background-color: black; */
+    border-color: gray;
+    color: black;
+    font-size: 30px;
+    border-radius: 5px;
+    margin: 30px;
+
+}
+
+#pauseBtn {
+    /* background-color: black; */
+    border-color: gray;
+    color: black;
+    font-size: 30px;
+    border-radius: 5px;
+    margin: 30px;;
+
+}
+
+#resetBtn {
+    /* background-color: black; */
+    border-color: gray;
+    color: black;
+    font-size: 30px;
+    border-radius: 5px;
+    margin: 30px;
+
+}
+
